@@ -1,0 +1,4 @@
+Question 1 : Regarder dans le code la prise en charge du multithread et expliquer comment les accès concurrents sont gérés.
+
+
+Question 2 : Est-ce un deadlock ou une famine ? Pourquoi ce blocage apparaît-il ?
